@@ -1,6 +1,6 @@
 def square_array(array)
   # your code here
   squares = []
-  squares.push
+  squares.push(array.each )
   return squares
 end
