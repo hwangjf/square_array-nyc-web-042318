@@ -1,5 +1,6 @@
 def square_array(array)
   # your code here
-  puts array.each do |i|
+  array.each do |i|
+    i = i*i
   end
 end
