@@ -3,5 +3,4 @@ def square_array(array)
   squares = []
   squares.push
   return squares
-  end
 end
